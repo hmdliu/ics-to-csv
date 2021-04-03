@@ -7,4 +7,6 @@
 3. Find combined output in the ./csv/ directory
 
 ## Packages Requisite
-csv_ical, pytz, pandas
+1. pytz
+2. pandas
+3. csv_ical
