@@ -1,0 +1,5 @@
+Event,ST,ET,Remark,Location,Category,Duration
+Buy Coffee,2020-12-31 08:00:00+08:00,2020-12-31 08:30:00+08:00,Luckin,xxx,type1,0.5
+Watch YouTube,2021-01-01 09:30:00+08:00,2021-01-01 11:00:00+08:00,Guitar Videos,Home,type1,1.5
+Chat with Harry Potter,2021-04-03 09:00:00+08:00,2021-04-03 09:30:00+08:00,lol,Hogwarts,type2,0.5
+Hearthstone,2021-04-03 11:30:00+08:00,2021-04-03 12:00:00+08:00,yeah,dorm,type2,0.5
