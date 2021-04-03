@@ -1,5 +1,5 @@
 # ics-to-csv
- Combine mutiple ics files to a single csv file
+ Combine mutiple Google Calendar exported ics files to a single csv file
 
 ## Usage
 1. Put mutiple ics files in the ./ics/ directory
