@@ -1,12 +1,13 @@
 # ics-to-csv
- Combine mutiple Google Calendar exported ics files to a single csv file
+ Combine multiple (Google Calendar exported) ics files to a single csv file
 
 ## Usage
 1. Put mutiple ics files in the ./ics/ directory
-2. Run **main.py**
-3. Find combined output in the ./csv/ directory
+2. (Optional) Set your own tagging strategies & time span
+3. Run **main.py**
+4. Find combined output in the ./csv/ directory
 
-## Packages Requisite
+## Packages
 1. pytz
 2. pandas
 3. csv_ical
