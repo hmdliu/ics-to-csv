@@ -94,7 +94,7 @@ class Parser:
                     if event_list[i].find(keywords) != -1:
                         tag_list[i].append(tag)
                 elif sum([(event_list[i].find(k) != -1) for k in keywords]):
-                    tag_list[i].append(self.tag_dict[keywords])
+                    tag_list[i].append(tag)
 
         tags = [' '.join(tag_list[i]) for i in range(len(event_list))]
         self.csv_df['Tag'] = tags
